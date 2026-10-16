@@ -38,7 +38,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-name>/jwt-forge-ui.git
+git clone https://github.com/LZ-jun/jwt-forge-ui.git
 cd jwt-forge-ui
 pip install -r requirements.txt
 ```
