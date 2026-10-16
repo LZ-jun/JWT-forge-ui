@@ -38,8 +38,8 @@
 ## 安装
 
 ```bash
-git clone https://github.com/LZ-jun/jwt-forge-ui.git
-cd jwt-forge-ui
+git clone https://github.com/LZ-jun/JWT-forge-ui.git
+cd JWT-forge-ui
 pip install -r requirements.txt
 ```
 
@@ -75,7 +75,7 @@ your-256-bit-secret
 ## 项目结构
 
 ```
-jwt-forge-ui/
+JWT-forge-ui/
 ├── JWT签名.py        # 主程序（Tkinter GUI）
 ├── requirements.txt  # 依赖声明（PyJWT）
 ├── .gitignore
